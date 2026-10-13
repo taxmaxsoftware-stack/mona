@@ -9,6 +9,7 @@ Professional training lessons for paid tax return preparers, built from current 
 | [`STYLE_GUIDE.md`](STYLE_GUIDE.md) | Content standards every lesson must meet: sourcing, year-sensitivity flags, quiz rules, closing remarks |
 | [`templates/lesson-template.md`](templates/lesson-template.md) | Starting template with the 10 required sections |
 | [`lessons/`](lessons/) | Finished lessons |
+| [`reviews/2026-10-13/REPORT.md`](reviews/2026-10-13/REPORT.md) | Full review of the Tax Max Affiliate Hub lessons (Base44) |
 
 ## Lessons
 
